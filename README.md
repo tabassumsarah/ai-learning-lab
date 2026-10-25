@@ -1,2 +1,2 @@
 # ai-learning-lab
-n AI-powered learning companion for exploring technical articles, GitHub repositories and engineering case studies.
+an AI-powered learning companion for exploring technical articles, GitHub repositories and engineering case studies.
